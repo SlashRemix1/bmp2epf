@@ -1,0 +1,17 @@
+﻿F:\Microsoft Visual\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  arguments.cpp
+f:\bmp2epf\bmp2epf\arguments.cpp(39): warning C4018: '<=': signed/unsigned mismatch
+  BitStack.cpp
+  GdiFIle.cpp
+  main.cpp
+f:\bmp2epf\bmp2epf\main.cpp(17): warning C4018: '<': signed/unsigned mismatch
+f:\bmp2epf\bmp2epf\main.cpp(21): warning C4838: conversion from 'int' to 'uint16_t' requires a narrowing conversion
+f:\bmp2epf\bmp2epf\main.cpp(31): warning C4293: '>>': shift count negative or too big, undefined behavior
+f:\bmp2epf\bmp2epf\main.cpp(33): warning C4293: '>>': shift count negative or too big, undefined behavior
+  BmpFile.cpp
+  EfpFile.cpp
+f:\bmp2epf\bmp2epf\efpfile.cpp(150): warning C4018: '<': signed/unsigned mismatch
+f:\bmp2epf\bmp2epf\efpfile.cpp(197): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2457): note: see declaration of 'fileno'
+  Generating Code...
+  bmp2epf.vcxproj -> F:\bmp2epf\bmp2epf\.\..\dll_exe\bmp2epf.exe
